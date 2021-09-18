@@ -1,0 +1,25 @@
+---
+title: "Fornecimento de medicamentos no TJSP"
+author: "11ª Edição do curso de Jurimetria"
+date: "9/18/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Desenho
+
+
+### Delimitação
+
+Optou-se por baixar apenas os dados de primeiro grau do TJSP com as classes processuais procedimento comum e procedimento do juizado especial, ou seja, as classes 8714 e 8501 respectivamente. Igualmente, optou-se apenas pelo assunto 11561, fornecimento de medicamento.
+
+
+
+
+
+
+
+
